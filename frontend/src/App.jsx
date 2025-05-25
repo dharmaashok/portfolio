@@ -172,7 +172,7 @@ const Portfolio = () => {
                 and innovation.
               </p>
               <p className="text-gray-300 mb-6 leading-relaxed">
-                Throughout my studies, I've maintained a 3.8 GPA while actively participating 
+                Throughout my studies, I've maintained a 8.9 GPA while actively participating 
                 in hackathons, contributing to open-source projects, and taking on internships 
                 that challenge me to grow as a developer.
               </p>
