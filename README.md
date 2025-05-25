@@ -86,7 +86,7 @@ spark-student-showcase/
 
 ### Clone Repository
 ```bash
-git clone https://github.com/dharma2005-sys/spark-student-showcase.git
+git clone https://github.com/dharmaashok-sys/spark-student-showcase.git
 cd spark-student-showcase
 ```
 
@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sanjay**
 - Portfolio: [https://github.com/dharmaashok/portfolio](https://github.com/dharmaashok/portfolio)
-- GitHub: [Github@1212-sys](https://github.com/dharmaashok/portfolio)
+- GitHub: [dharmaashok-sys](https://github.com/dharmaashok/portfolio)
 
 - Email: dharmaashok625@gmail.com
 
